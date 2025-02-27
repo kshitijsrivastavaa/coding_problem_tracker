@@ -1,34 +1,50 @@
-# Coding Problem Tracker 📈  
+🚀 Coding Problem Tracker 📈
 
-A web-based tool to **track coding problems**, **log solutions**, and **analyze performance** over time.  
+A web-based tool to track coding problems, log solutions, and analyze performance over time.
 
-## 📽️ Demo  
 
-Project Demo Video 
+🌟 Features
+
+✅ Track & log solved coding problems (LeetCode, CodeForces, etc.)
+✅ View analytics (problem difficulty, time spent, success rate)
+✅ RESTful API for seamless integration
+✅ Secure authentication using JWT
+
+🎥 Demo Video
 
 {{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
 
-## 🚀 Features  
+🛠 Installation
 
-✅ Add & track solved coding problems (LeetCode, CodeForces, etc.)  
-✅ View analytics (problem difficulty, time spent)  
-✅ RESTful API for integration  
-✅ Secure authentication with JWT  
+Clone the repository and install dependencies:
 
----
-
-## 🔧 Installation  
-
-```bash
-git clone https://github.com/kshitijsrivastavaa/Coding_Problem_Tracker.git
-cd Coding_Problem_Tracker
+sh
+Copy
+Edit
+git clone https://github.com/kshitijsrivastavaa/coding_problem_tracker.git
+cd coding_problem_tracker
 pip install -r requirements.txt
 python main.py
 
-🤝 Contributing
-Feel free to contribute! Open issues and PRs are welcome.
+🏗 Tech Stack
+
+🔹 Backend: Python (Flask)
+🔹 Frontend: HTML, CSS, JavaScript
+🔹 Database: SQLite/PostgreSQL
+🔹 Auth: JWT
+
+📸 Screenshots
+
+Here are some snapshots of the project in action:
+
+Dashboard	Analytics
+
+🚀 Contributing
+
+Want to contribute? Great! Please fork the repository, create a new branch, and submit a PR.
 
 📜 License
-This project is licensed under the MIT License.
 
+Distributed under the MIT License.
 
+📩 Let's Connect!

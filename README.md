@@ -1,57 +1,86 @@
-🚀 Coding Problem Tracker 📈
+# Coding Problem Tracker 📈
 
-A web-based tool to track coding problems, log solutions, and analyze performance over time.
+A web-based tool to **track coding problems**, **log solutions**, and **analyze performance** over time.
 
+---
 
-🌟 Features
+## 📸 Screenshots
 
-✅ Track & log solved coding problems (LeetCode, CodeForces, etc.)
-✅ View analytics (problem difficulty, time spent, success rate)
-✅ RESTful API for seamless integration
-✅ Secure authentication using JWT
+### 🏠 Dashboard
+![Dashboard](images/dashboard.png)
 
-🎥 Demo Video
+### 📝 Problem Submission
+![Problem Submission](images/submit_problem.png)
 
+---
+
+## 🚀 Features
+✔ Track solved coding problems (LeetCode, CodeForces, etc.)  
+✔ View analytics (time spent, difficulty level, topic-wise stats)  
+✔ REST API for programmatic access  
+✔ Secure authentication with JWT  
+✔ Cloud deployment-ready (AWS/GCP)  
+
+---
+
+## 📡 API Endpoints
+
+| Endpoint         | Method | Description                        |
+|-----------------|--------|------------------------------------|
+| `/problems`     | GET    | Get all coding problems           |
+| `/problems/:id` | GET    | Get details of a specific problem |
+| `/submit`       | POST   | Submit a solution                 |
+
+---
+
+## 🛠 Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/kshitij/Coding_Problem_Tracker.git
+cd Coding_Problem_Tracker
+```
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Application
+```bash
+python main.py
+```
+
+### 4️⃣ Access the API
+- Open `http://127.0.0.1:5000/` in your browser.
+
+---
+
+## 🔗 Live Demo
 {{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
 
-🛠 Installation  
+---
 
-### 🔹 Prerequisites  
-Make sure you have:  
-- **Python 3.x** installed  
-- **pip** (Python package manager)  
+## 🏆 Badges
+![GitHub repo size](https://img.shields.io/github/repo-size/kshitij/Coding_Problem_Tracker)
+![GitHub last commit](https://img.shields.io/github/last-commit/kshitij/Coding_Problem_Tracker)
+![License](https://img.shields.io/github/license/kshitij/Coding_Problem_Tracker)
 
-### 🔹 Setup & Run  
-```sh
-# Clone the repository
-git clone https://github.com/kshitijsrivastavaa/coding_problem_tracker.git
-cd coding_problem_tracker
+---
 
-# Install dependencies
-pip install -r requirements.txt
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-# Run the application
-python main.py
+---
 
-🏗 Tech Stack
+## 🤝 Contribution Guidelines
+1. Fork the repository.
+2. Clone your fork: `git clone https://github.com/kshitij/Coding_Problem_Tracker.git`
+3. Create a feature branch: `git checkout -b feature-new-functionality`
+4. Make changes & commit: `git commit -m "Added new feature"`
+5. Push to your fork & create a pull request.
 
-🔹 Backend: Python (Flask)
-🔹 Frontend: HTML, CSS, JavaScript
-🔹 Database: SQLite/PostgreSQL
-🔹 Auth: JWT
+---
 
-📸 Screenshots
-
-Here are some snapshots of the project in action:
-
-Dashboard	Analytics
-
-🚀 Contributing
-
-Want to contribute? Great! Please fork the repository, create a new branch, and submit a PR.
-
-📜 License
-
-Distributed under the MIT License.
-
-📩 Let's Connect!
+## 🛡 Security Policy
+For any security vulnerabilities, please report them to **Kshitij Srivastava** at [your-email@example.com].

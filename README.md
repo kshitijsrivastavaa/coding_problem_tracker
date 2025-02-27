@@ -14,16 +14,23 @@ A web-based tool to track coding problems, log solutions, and analyze performanc
 
 {{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
 
-🛠 Installation
+🛠 Installation  
 
-Clone the repository and install dependencies:
+### 🔹 Prerequisites  
+Make sure you have:  
+- **Python 3.x** installed  
+- **pip** (Python package manager)  
 
-sh
-Copy
-Edit
+### 🔹 Setup & Run  
+```sh
+# Clone the repository
 git clone https://github.com/kshitijsrivastavaa/coding_problem_tracker.git
 cd coding_problem_tracker
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the application
 python main.py
 
 🏗 Tech Stack

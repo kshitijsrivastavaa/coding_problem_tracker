@@ -15,21 +15,32 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 ---
 
 ## 🚀 Features
-✔ Track solved coding problems (LeetCode, CodeForces, etc.)  
-✔ View analytics (time spent, difficulty level, topic-wise stats)  
-✔ REST API for programmatic access  
-✔ Secure authentication with JWT  
-✔ Cloud deployment-ready (AWS/GCP)  
+✔ **User Authentication** - Register, login, and logout securely.  
+✔ **Multiple Users** - Supports multiple users logging in, logging out, and registering independently.  
+✔ **Problem Tracking** - Users can add coding problems they have solved.  
+✔ **Difficulty Levels** - Categorize problems as **Easy, Medium, or Hard**.  
+✔ **Custom Test Cases** - Users can add **custom test cases** to validate solutions.  
+✔ **Delete Problems** - Users can delete problems they no longer need.  
+✔ **Analytics & Charts** - Visualize progress and difficulty distribution using charts.  
+✔ **Local System Use** - Runs locally for personal tracking.  
 
 ---
 
-## 📡 API Endpoints
+## 🔐 Authentication (Local Use Only)
+- Users can **log in and log out** within their system.
+- This is not a public API; it runs only on the local machine.
 
-| Endpoint         | Method | Description                        |
-|-----------------|--------|------------------------------------|
-| `/problems`     | GET    | Get all coding problems           |
-| `/problems/:id` | GET    | Get details of a specific problem |
-| `/submit`       | POST   | Submit a solution                 |
+### 🛠 API Endpoints (For Local Use)
+| Endpoint         | Method | Description                  |
+|-----------------|--------|------------------------------|
+| `/register`     | POST   | Register a new user |
+| `/login`        | POST   | User login (requires email & password) |
+| `/logout`       | GET    | Logs out the current user |
+| `/problems`     | GET    | Fetch all stored coding problems |
+| `/problems/add` | POST   | Add a new coding problem |
+| `/problems/delete/:id` | DELETE | Remove a coding problem |
+
+- **Note:** This API is **not hosted publicly** and runs only when the project is executed locally.
 
 ---
 
@@ -57,14 +68,8 @@ python main.py
 ---
 
 ## 🔗 Live Demo
-{{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
+[Click here to try the project](https://your-deployment-link.com)
 
----
-
-## 🏆 Badges
-![GitHub repo size](https://img.shields.io/github/repo-size/kshitij/Coding_Problem_Tracker)
-![GitHub last commit](https://img.shields.io/github/last-commit/kshitij/Coding_Problem_Tracker)
-![License](https://img.shields.io/github/license/kshitij/Coding_Problem_Tracker)
 
 ---
 

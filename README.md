@@ -68,8 +68,7 @@ python main.py
 ---
 
 ## 🔗 Live Demo
-[Click here to try the project](https://your-deployment-link.com)
-
+{{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
 
 ---
 

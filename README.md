@@ -24,3 +24,11 @@ git clone https://github.com/kshitijsrivastavaa/Coding_Problem_Tracker.git
 cd Coding_Problem_Tracker
 pip install -r requirements.txt
 python main.py
+
+🤝 Contributing
+Feel free to contribute! Open issues and PRs are welcome.
+
+📜 License
+This project is licensed under the MIT License.
+
+

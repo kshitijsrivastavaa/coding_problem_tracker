@@ -7,7 +7,7 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](images/dashboard.png)
+https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/2#issue-2889049344
 
 ### 📝 Problem Submission
 ![Problem Submission](images/submit_problem.png)

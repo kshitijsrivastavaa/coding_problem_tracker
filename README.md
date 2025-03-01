@@ -63,7 +63,7 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/kshitij/Coding_Problem_Tracker.git
+git clone https://github.com/kshitijsrivastavaa/Coding_Problem_Tracker.git
 cd Coding_Problem_Tracker
 ```
 

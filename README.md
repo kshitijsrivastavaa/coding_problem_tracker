@@ -4,19 +4,15 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 
 ---
 
-## 📸 Screenshots
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/Gif.gif" width="80%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
-</p>
-
+## 📸 Images
 ### 📝 Login Page
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/login.png" width="60%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/login.png" width="50%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
 </p>
 
 ### 🏠 Dashboard
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/dashboard.png" width="60%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/dashboard.png" width="50%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
 </p>
 
 ---

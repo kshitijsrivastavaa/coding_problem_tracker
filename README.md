@@ -9,8 +9,11 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 ### 🏠 Dashboard
 <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/dashboard.png" width="100%">
 
-### 📝 Problem Submission
-![Problem Submission](images/submit_problem.png)
+### 📝 Adding Submission
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/%20adding%20problem.png" width="60%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
+</p>
+
 
 ---
 
@@ -23,6 +26,11 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 ✔ **Delete Problems** - Users can delete problems they no longer need.  
 ✔ **Analytics & Charts** - Visualize progress and difficulty distribution using charts.  
 ✔ **Local System Use** - Runs locally for personal tracking.  
+
+---
+
+## 🔗 Live Demo
+{{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
 
 ---
 
@@ -67,11 +75,6 @@ python main.py
 
 ---
 
-## 🔗 Live Demo
-{{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
-
----
-
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -87,4 +90,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 🛡 Security Policy
-For any security vulnerabilities, please report them to **Kshitij Srivastava** at [your-email@example.com].
+For any security vulnerabilities, please report them to **Kshitij Srivastava** at (kshitij.srivastava16@gmail.com).

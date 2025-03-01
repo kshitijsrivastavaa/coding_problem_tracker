@@ -33,6 +33,13 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 
 ---
 
+## 📸 Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/Gif.gif" width="80%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
+</p>
+
+---
+
 ## 🔗 Live Demo
 {{ https://github.com/kshitijsrivastavaa/coding_problem_tracker/issues/1 }}
 
@@ -85,12 +92,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 🤝 Contribution Guidelines
-1. Fork the repository.
-2. Clone your fork: `git clone https://github.com/kshitij/Coding_Problem_Tracker.git`
-3. Create a feature branch: `git checkout -b feature-new-functionality`
-4. Make changes & commit: `git commit -m "Added new feature"`
-5. Push to your fork & create a pull request.
-
+Fork the repository.
+Clone your fork: git clone https://github.com/kshitij/Coding_Problem_Tracker.git
+Create a feature branch: git checkout -b feature-new-functionality
+Make changes & commit: git commit -m "Added new feature"
+Push to your fork & create a pull req is this correct for ream e file if need change than make a change 
 ---
 
 ## 🛡 Security Policy

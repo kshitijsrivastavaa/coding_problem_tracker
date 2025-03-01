@@ -88,11 +88,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 🤝 Contribution Guidelines
-Fork the repository.
-Clone your fork: git clone https://github.com/kshitijsrivastavaa/Coding_Problem_Tracker.git
-Create a feature branch: git checkout -b feature-new-functionality
-Make changes & commit: git commit -m "Added new feature"
-Push to your fork & create a pull req is this correct for ream e file if need change than make a change 
+Fork the repository. Clone your fork: `git clone https://github.com/kshitijsrivastavaa/Coding_Problem_Tracker.git`  
+Create a feature branch: `git checkout -b feature-new-functionality`  
+Make changes & commit: `git commit -m "Added new feature"`  
+Push to your fork & create a pull request.  
+
 ---
 
 ## 🛡 Security Policy

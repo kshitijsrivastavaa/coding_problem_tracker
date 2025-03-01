@@ -5,6 +5,10 @@ A web-based tool to **track coding problems**, **log solutions**, and **analyze 
 ---
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/coding_problem_tracker/main/pictures/Gif.gif" width="80%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
+</p>
+
 
 ### 🏠 Dashboard
 <p align="center">
